@@ -1,0 +1,3 @@
+/home/aiano/CLionProjects/camshift/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aiano/CLionProjects/camshift/cmake-build-debug/CMakeFiles/camshift.dir
+/home/aiano/CLionProjects/camshift/cmake-build-debug/CMakeFiles/edit_cache.dir
